@@ -44,7 +44,7 @@ Assignments are marked automatically using tests which check the output of your 
 
 # Pushing your changes to github
 
-You should push (update) your repository on GitHub regularly with your local to make sure you don't lose any work. Especially if you are programming in a codespace. Take care to review the changes before you push, as it is not easy to reverse your changes once you have pushed them. The module tutor will have access to all the repositories on GitHub so you can reference it directly if you need feedback on something specific.
+You should push (update) your repository on GitHub regularly with your local to make sure you don't lose any work. Especially if you are programming in a codespace. Take care to review the changes before you push, as it is not easy to reverse your changes once you have pushed them ([details here](https://sethrobertson.github.io/GitFixUm/fixup.html)). The module tutor will have access to all the repositories on GitHub so you can reference it directly if you need feedback on something specific.
 
 The first time you use git on your device you will need to set up your name and email in order to make commits to a repository. You only need to do this once. Type these commands in a shell/PowerShell/terminal window.
 
