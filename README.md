@@ -44,7 +44,14 @@ Assignments are marked automatically using tests which check the output of your 
 
 # Pushing your changes to github
 
-You should push (update) your repository on github regularly to make sure you don't lose any work. Especially if you are programming in a codespace. But keep in mind that it is not easy to reverse your changes once you have pushed them. You can also ask for feedback this way as the module tutor will have access to all the repositories.
+You should push (update) your repository on GitHub regularly with your local to make sure you don't lose any work. Especially if you are programming in a codespace. Take care to review the changes before you push, as it is not easy to reverse your changes once you have pushed them. The module tutor will have access to all the repositories on GitHub so you can reference it directly if you need feedback on something specific.
+
+The first time you use git on your device you will need to set up your name and email in order to make commits to a repository. You only need to do this once. Type these commands in a shell/PowerShell/terminal window.
+
+```
+git config --global user.name "PUT YOUR NAME HERE"
+git config --global user.email "PUT YOUR EMAIL HERE"
+```
 
 1. **Open the source control tab** This will show you all the changes you have made to the repository.
 2. **Initialise the repository** To start tracking changes in the repository.
