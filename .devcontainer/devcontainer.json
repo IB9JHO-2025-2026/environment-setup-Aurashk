@@ -8,8 +8,8 @@
                 "ms-vscode.cpptools-extension-pack",
                 "ms-vscode.cmake-tools",
                 "twxs.cmake",
-                "brobeson.ctest-lab",
-                "github.vscode-github-actions"
+                "github.vscode-github-actions",
+                "matepek.vscode-catch2-test-adapter"
             ]
         }
     }

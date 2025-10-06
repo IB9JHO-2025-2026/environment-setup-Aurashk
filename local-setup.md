@@ -56,7 +56,7 @@ This is a guide to set up a local development environment with VSCode on your pe
   - `ms-vscode.cpptools-extension-pack`
   - `ms-vscode.cmake-tools`
   - `twxs.cmake`
-  - `brobeson.ctest-lab`
+  - `matepek.vscode-catch2-test-adapter`
   - `github.vscode-github-actions`
 
 ![](extensions.png)
